@@ -12,8 +12,6 @@ I've installed my Java Versions with [Chocolatey](https://chocolatey.org/install
 After that you can install different Java Versions with the following command (admin cmd):
 
 ```cmd
-
-```cmd
 choco install zulu8 -y
 choco install zulu11 -y
 choco install zulu17 -y
